@@ -1,2 +1,1 @@
-#include <stdio.h>\nint main() { printf("Hello again Git\\n"); return 0; }
-// Another change
+#include <stdio.h>\nint main() { printf("Hotfix Welcome!\\n"); return 0; }
